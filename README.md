@@ -1,13 +1,12 @@
 # Afk Bot
 <p align="center"> 
-    <img src="https://img.shields.io/github/issues/urfate/afk-bot">
-    <img src="https://img.shields.io/github/forks/urfate/afk-bot">
-    <img src="https://img.shields.io/github/stars/urfate/afk-bot">
-    <img src="https://img.shields.io/github/license/urfate/afk-bot">
+    <img src="https://img.shields.io/github/issues/jxshuaa/serverkeeper">
+    <img src="https://img.shields.io/github/forks/jxshuaa/serverkeeper">
+    <img src="https://img.shields.io/github/stars/jxshuaa/serverkeeper">
 </p>
 
 <p align="center">
-    Functional minecraft AFK bot for servers
+    Functional minecraft AFK bot for aternos servers.
 </p>
 
 <p align="center">
@@ -16,13 +15,13 @@
 
 ## Installation
 
- 1. [Download](https://github.com/urFate/Afk-Bot/tags) the latest package.
+ 1. [Download](https://github.com/jxshuaa/serverkeeper/tags) the latest package.
  2. Download & install [Node.JS](https://nodejs.org/en/download/)
  3. Run `npm install` command in bot directory.
  
  ## Usage
  
- 1. Configure bot in `settings.json` file. [Configuration Reference](https://github.com/urFate/Afk-Bot/wiki/Configuring-bot-(settings.json))
+ 1. Configure bot in `settings.json`
  2. Start bot with `node .` command.
 
 ## Features
@@ -35,6 +34,3 @@
  - Auto reconnect
  - Supported server versions: `1.8 - 1.18.2`
  
- ### License
- [MIT](https://github.com/urFate/Afk-Bot/blob/main/LICENSE)
-
